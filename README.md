@@ -1,6 +1,6 @@
 # swinject-setup
 
-# code
+```swift
 final class AppContainer {
     static let shared = AppContainer()
     let container: Container
